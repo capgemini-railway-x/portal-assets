@@ -1,6 +1,6 @@
 ## Onboarding
 
-The Catena-X onboarding is split into two section:
+The Railway-X onboarding is split into two section:
 
 - Registration
 - Technical Onboarding

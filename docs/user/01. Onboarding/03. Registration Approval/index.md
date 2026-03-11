@@ -1,6 +1,6 @@
 ## Summary
 
-The registration approval board is created for the CX Admin to managed registration applications to the Catena-X network.
+The registration approval board is created for the CX Admin to managed registration applications to the Railway-X network.
 <br>
 Acting user: CX Admin (Operator)
 <br>

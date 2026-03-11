@@ -19,7 +19,7 @@ At the moment there is no test automation in the backend.
 
 ## Manual Tests
 
-Manual tests are executed and documented inside the Catena-X consortia. Currently, manual tests are not openly available.
+Manual tests are executed and documented inside the Railway-X consortia. Currently, manual tests are not openly available.
 
 <br>
 <br>

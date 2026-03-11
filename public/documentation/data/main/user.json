@@ -1,6 +1,6 @@
 {
   "path": "user",
-  "name": "Catena-X Help Desk",
+  "name": "Railway-X Help Desk",
   "children": [
     {
       "path": "user/00. Personas",
@@ -145,39 +145,6 @@
       ]
     },
     {
-      "path": "user/02. Identity",
-      "name": "02. Identity",
-      "children": [
-        {
-          "path": "user/02. Identity/01. Identity Levels",
-          "name": "01. Identity Levels",
-          "children": [
-            {
-              "path": "user/02. Identity/01. Identity Levels/00. Identity Types.md",
-              "name": "00. Identity Types.md",
-              "chapter": []
-            }
-          ]
-        },
-        {
-          "path": "user/02. Identity/02. Digital Wallet",
-          "name": "02. Digital Wallet",
-          "children": [
-            {
-              "path": "user/02. Identity/02. Digital Wallet/00. Wallet Creation.md",
-              "name": "00. Wallet Creation.md",
-              "chapter": []
-            },
-            {
-              "path": "user/02. Identity/02. Digital Wallet/01. Wallet UI.md",
-              "name": "01. Wallet UI.md",
-              "chapter": []
-            }
-          ]
-        }
-      ]
-    },
-    {
       "path": "user/02. Technical Integration",
       "name": "02. Technical Integration",
       "children": [
@@ -247,28 +214,28 @@
               "chapter": []
             },
             {
-              "path": "user/02. Technical Integration/02. Identity Provider Management/02. Configure Company IdP.md",
-              "name": "02. Configure Company IdP.md",
+              "path": "user/02. Technical Integration/02. Identity Provider Management/03. Configure Company IdP.md",
+              "name": "03. Configure Company IdP.md",
               "chapter": []
             },
             {
-              "path": "user/02. Technical Integration/02. Identity Provider Management/03. User Migration.md",
-              "name": "03. User Migration.md",
+              "path": "user/02. Technical Integration/02. Identity Provider Management/04. User Migration.md",
+              "name": "04. User Migration.md",
               "chapter": []
             },
             {
-              "path": "user/02. Technical Integration/02. Identity Provider Management/04. Identity Provider Deletion.md",
-              "name": "04. Identity Provider Deletion.md",
+              "path": "user/02. Technical Integration/02. Identity Provider Management/05. Identity Provider Deletion.md",
+              "name": "05. Identity Provider Deletion.md",
               "chapter": []
             },
             {
-              "path": "user/02. Technical Integration/02. Identity Provider Management/05. Disable Identity Provider.md",
-              "name": "05. Disable Identity Provider.md",
+              "path": "user/02. Technical Integration/02. Identity Provider Management/06. Disable Identity Provider.md",
+              "name": "06. Disable Identity Provider.md",
               "chapter": []
             },
             {
-              "path": "user/02. Technical Integration/02. Identity Provider Management/06. FAQ.md",
-              "name": "06. FAQ.md",
+              "path": "user/02. Technical Integration/02. Identity Provider Management/07. FAQ.md",
+              "name": "07. FAQ.md",
               "chapter": []
             },
             {
@@ -922,16 +889,49 @@
       ]
     },
     {
-      "path": "user/09. Others",
-      "name": "09. Others",
+      "path": "user/09. Identity",
+      "name": "09. Identity",
       "children": [
         {
-          "path": "user/09. Others/01. Login.md",
+          "path": "user/09. Identity/01. Identity Levels",
+          "name": "01. Identity Levels",
+          "children": [
+            {
+              "path": "user/09. Identity/01. Identity Levels/00. Identity Types.md",
+              "name": "00. Identity Types.md",
+              "chapter": []
+            }
+          ]
+        },
+        {
+          "path": "user/09. Identity/02. Digital Wallet",
+          "name": "02. Digital Wallet",
+          "children": [
+            {
+              "path": "user/09. Identity/02. Digital Wallet/00. Wallet Creation.md",
+              "name": "00. Wallet Creation.md",
+              "chapter": []
+            },
+            {
+              "path": "user/09. Identity/02. Digital Wallet/01. Wallet UI.md",
+              "name": "01. Wallet UI.md",
+              "chapter": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "user/10. Others",
+      "name": "10. Others",
+      "children": [
+        {
+          "path": "user/10. Others/01. Login.md",
           "name": "01. Login.md",
           "chapter": []
         },
         {
-          "path": "user/09. Others/12. Offer Authentication Flow.md",
+          "path": "user/10. Others/12. Offer Authentication Flow.md",
           "name": "12. Offer Authentication Flow.md",
           "chapter": []
         }

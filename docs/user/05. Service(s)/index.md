@@ -1,4 +1,4 @@
-## Service Marketplace in Catena-X
+## Service Marketplace in Railway-X
 
 The service marketplace is used for service provider offerings to enable users to participate in the dataspace by enabling them with infrastructure, technical components and consultancy.
 Similar like the app marketplace, only published services via the "Service Release Process" will be shown in the service marketplace.

@@ -5,7 +5,7 @@
 ### Interface Summary
 
 Wallets are <strong>the touchpoint of company/participant to SSI as the digital identity</strong>. Companies can interact with other actors in the network using their own identity on their wallet.
-Since SSI Wallets are not yet common on company level, Catena-X decided to create CX managed wallets for membership companies. This wallets can be used to enable the benefits of SSI for a number of services.
+Since SSI Wallets are not yet common on company level, Railway-X decided to create CX managed wallets for membership companies. This wallets can be used to enable the benefits of SSI for a number of services.
 <br>
 The Portal / Managed Service connection is implemented in 2 functions
 

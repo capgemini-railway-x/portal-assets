@@ -1,6 +1,6 @@
 {
   "path": "developer",
-  "name": "Catena-X Developer Documentation",
+  "name": "Railway-X Developer Documentation",
   "children": [
     {
       "path": "developer/00. Personas",
@@ -27,13 +27,18 @@
               "chapter": []
             },
             {
-              "path": "developer/01. Registration/01. Registration Process/01. Registration Portal.md",
-              "name": "01. Registration Portal.md",
+              "path": "developer/01. Registration/01. Registration Process/01. Registration Flow Activity Diagram.md",
+              "name": "01. Registration Flow Activity Diagram.md",
               "chapter": []
             },
             {
-              "path": "developer/01. Registration/01. Registration Process/02. Registration External.md",
-              "name": "02. Registration External.md",
+              "path": "developer/01. Registration/01. Registration Process/02. Registration Portal.md",
+              "name": "02. Registration Portal.md",
+              "chapter": []
+            },
+            {
+              "path": "developer/01. Registration/01. Registration Process/03. Registration External.md",
+              "name": "03. Registration External.md",
               "chapter": []
             }
           ]

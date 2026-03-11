@@ -200,7 +200,7 @@ class Chapters extends Viewable {
     super()
     state.addDataListener(this)
     this.items = N('div')
-    this.title = N('h3', 'Catena-X Help Desk')
+    this.title = N('h3', 'Railway-X Help Desk')
     this.view = N(
       'section',
       [

@@ -449,7 +449,7 @@ Request Body
 
 ### Interface Summary
 
-Business Partner Data of all business partners stored inside the catena-x data pool get visually displayed inside the partner network.
+Business Partner Data of all business partners stored inside the railway-x data pool get visually displayed inside the partner network.
 This document describes the details of the interface spec between BPDM and Portal product.
 <br>
 <br>
@@ -492,7 +492,7 @@ n/a
 
 ##### Get Membership Flag
 
-The endpoint provides all business partner numbers of those comapny records; where the company status is "ACTIVE" (means: company is part of the catena-x network).
+The endpoint provides all business partner numbers of those comapny records; where the company status is "ACTIVE" (means: company is part of the railway-x network).
 Those bpns are mapped with the GET Business Partner Data response (see above) and a membership flag is added for matching companies inside the partner network user interface.
 <br>
 
