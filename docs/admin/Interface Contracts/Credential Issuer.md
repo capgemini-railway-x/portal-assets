@@ -2,7 +2,7 @@
 
 ### Interface Summary
 
-This interface contract specifies the interaction between the portal and the issuer component responsible for creating, managing, and revoking Self-Sovereign Identity (SSI) credentials within the Catena-X dataspace.
+This interface contract specifies the interaction between the portal and the issuer component responsible for creating, managing, and revoking Self-Sovereign Identity (SSI) credentials within the Railway-X dataspace.
 
 ### Architecture Overview
 

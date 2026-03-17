@@ -20,7 +20,7 @@
 ###############################################################
 
 #
-# Catena-X Assets Repository Bash Helpers
+# Railway-X Assets Repository Bash Helpers
 # 
 # usage:
 #       source scripts/repo.sh

@@ -90,13 +90,13 @@ _v1.2.0_
 
 Examples for tag messages:
 
-_Version 1.2.0: Frontend Portal for the Catena-X_
+_Version 1.2.0: Frontend Portal for the Railway-X_
 
-_Version 1.2.0: Frontend Registration for the Catena-X_
+_Version 1.2.0: Frontend Registration for the Railway-X_
 
-_Version 1.1.0: Assets for the Catena-X Portal_
+_Version 1.1.0: Assets for the Railway-X Portal_
 
-_Version 1.1.0: Backend for the Catena-X Portal_
+_Version 1.1.0: Backend for the Railway-X Portal_
 
 ## Release new helm chart version
 
@@ -169,13 +169,13 @@ Technically this step is already possible after [Tag and build of versioned imag
 
 Examples for release messages:
 
-_Version 1.2.0: Frontend Portal for the Catena-X_
+_Version 1.2.0: Frontend Portal for the Railway-X_
 
-_Version 1.2.0: Frontend Registration for the Catena-X_
+_Version 1.2.0: Frontend Registration for the Railway-X_
 
-_Version 1.1.0: Assets for the Catena-X Portal_
+_Version 1.1.0: Assets for the Railway-X Portal_
 
-_Version 1.1.0: Backend for the Catena-X Portal_
+_Version 1.1.0: Backend for the Railway-X Portal_
 
 ## NOTICE
 

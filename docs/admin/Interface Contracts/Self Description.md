@@ -5,7 +5,7 @@
 ## Interface Summary
 
 Gaia-X requires all providers to describe themselves and their service offerings using standardized, machine-readable metadata called Self-Descriptions. Such Self-Descriptions will for example include information like the address of a company, a specific service description or certificates and labels.
-In the Catena-X context, those self-descriptions are implemented between the product Portal and SD Factory.
+In the Railway-X context, those self-descriptions are implemented between the product Portal and SD Factory.
 <br>
 <br>
 In the current implementation level, self-descriptions are considered in the following scenarios

@@ -2,7 +2,7 @@
 
 ## Business Context
 
-Any uses-case, value stream, function within Catena-X can be exposed an accessed via the portal. It builds the foundation for x-company interaction and collaboration and further provides access to the overall value proposition of Catena-X.
+Any uses-case, value stream, function within Railway-X can be exposed an accessed via the portal. It builds the foundation for x-company interaction and collaboration and further provides access to the overall value proposition of Railway-X.
 
 ## Technical Context
 

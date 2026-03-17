@@ -54,7 +54,7 @@ All images used for any user interaction will receive a frame. White as well as 
 <br>
 <br>
 
-#### In-App Design (Catena-X Apps)
+#### In-App Design (Railway-X Apps)
 
 ##### App Typography
 
@@ -80,7 +80,7 @@ Don'ts
 
 ##### Language Support
 
-Multi Language Support is necessary for Catena-X owned apps
+Multi Language Support is necessary for Railway-X owned apps
 <br>
 <br>
 Mandatory language support

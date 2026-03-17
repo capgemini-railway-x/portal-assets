@@ -1,6 +1,6 @@
 {
   "path": "api",
-  "name": "Catena-X API Documentation",
+  "name": "Railway-X API Documentation",
   "children": [
     {
       "path": "api/README.md",

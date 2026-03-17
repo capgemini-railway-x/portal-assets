@@ -10,7 +10,7 @@
 
 ## Product Description
 
-The Catena-X Portal and Marketplace is the heart of Catena-X and the entry point for all activities in the automotive network/value chain.
+The Railway-X Portal and Marketplace is the heart of Railway-X and the entry point for all activities in the automotive network/value chain.
 Every user of the automotive value chain, no matter if it is a consumer, app provider, IT administrator or IT support will connect via the portal to the value bringing services.
 The whole eco-system on the automotive value chain is connected at one place.
 
@@ -95,7 +95,7 @@ flowchart LR
     subgraph ownIdP
     CU-Own
     end
-    subgraph cross[Catena-X Cross functions]
+    subgraph cross[Railway-X Cross functions]
     BPDM
     SDT
     SDF
@@ -174,7 +174,7 @@ All threats identified are mitigated.
 - Replay Attacks
   - Token validation in place and this threat was not discovered in the PenTest.
 - Weak Authentication Scheme
-  - Implementation of Password Policies for all Catena-X IdP users. The password policies need to get configured, tested and automated to have the possibility to run the configuration by new realm creation.
+  - Implementation of Password Policies for all Railway-X IdP users. The password policies need to get configured, tested and automated to have the possibility to run the configuration by new realm creation.
 - SQL Injection - This issue is addressed within the capabilities of .NET and includes:
   - Parameterization
   - Input Validation

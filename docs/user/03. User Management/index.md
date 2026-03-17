@@ -1,7 +1,7 @@
 # User Management
 
-User accounts are the basic entities to access resources in Catena-X.
-Learn how to manage different kinds of user accounts in the Catena-X Portal.
+User accounts are the basic entities to access resources in Railway-X.
+Learn how to manage different kinds of user accounts in the Railway-X Portal.
 Read more details in the following sections:
 
 - [User Account](./01.%20User%20Account)

@@ -1,6 +1,6 @@
 {
   "path": "admin",
-  "name": "Catena-X Admin Documentation",
+  "name": "Railway-X Admin Documentation",
   "children": [
     {
       "path": "admin/DB Views and Details",
@@ -192,62 +192,6 @@
       "path": "admin/Tests",
       "name": "Tests",
       "children": [
-        {
-          "path": "admin/Tests/Automation",
-          "name": "Automation",
-          "children": [
-            {
-              "path": "admin/Tests/Automation/01. Summary.md",
-              "name": "01. Summary.md",
-              "chapter": []
-            },
-            {
-              "path": "admin/Tests/Automation/02. Access Token Retrieval.md",
-              "name": "02. Access Token Retrieval.md",
-              "chapter": []
-            },
-            {
-              "path": "admin/Tests/Automation/03. InterfacePartnerHealthCheck.md",
-              "name": "03. InterfacePartnerHealthCheck.md",
-              "chapter": []
-            },
-            {
-              "path": "admin/Tests/Automation/04. PortalHealthCheck.md",
-              "name": "04. PortalHealthCheck.md",
-              "chapter": []
-            },
-            {
-              "path": "admin/Tests/Automation/05. RegistrationScenarios.md",
-              "name": "05. RegistrationScenarios.md",
-              "chapter": []
-            },
-            {
-              "path": "admin/Tests/Automation/06. NotificiationInitScenario.md",
-              "name": "06. NotificiationInitScenario.md",
-              "chapter": []
-            },
-            {
-              "path": "admin/Tests/Automation/07. ServiceAccountCUDScenarios.md",
-              "name": "07. ServiceAccountCUDScenarios.md",
-              "chapter": []
-            },
-            {
-              "path": "admin/Tests/Automation/08. TestDataFileSetup.md",
-              "name": "08. TestDataFileSetup.md",
-              "chapter": []
-            },
-            {
-              "path": "admin/Tests/Automation/09. CreateAppScenario.md",
-              "name": "09. CreateAppScenario.md",
-              "chapter": []
-            },
-            {
-              "path": "admin/Tests/Automation/10. ReportPortal.md",
-              "name": "10. ReportPortal.md",
-              "chapter": []
-            }
-          ]
-        },
         {
           "path": "admin/Tests/Tests.md",
           "name": "Tests.md",

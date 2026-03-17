@@ -2,8 +2,8 @@
 
 ## Introduction
 
-The portal shared components are a set of React UI components created for the general use in Catena-X applications.
-Most components are based on Material UI and are styled to match the Catena-X look-and-feel.
+The portal shared components are a set of React UI components created for the general use in Railway-X applications.
+Most components are based on Material UI and are styled to match the Railway-X look-and-feel.
 
 Find more information here:
 

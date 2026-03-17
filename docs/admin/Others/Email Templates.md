@@ -2,7 +2,7 @@
 
 ## Summary
 
-As part of the Catena-X shared services, a number of E-Mail messages are send to the customer / business partner.
+As part of the Railway-X shared services, a number of E-Mail messages are send to the customer / business partner.
 On this page a summary is provided on which Email Templates are available and used
 
 - Email Service
@@ -11,7 +11,7 @@ On this page a summary is provided on which Email Templates are available and us
 - E-Mail Invite for Registration
 - E-Mail Invite additional Users
 - E-Mail Submitted Registration & Next Steps
-- E-Mail Welcome to Catena-X - Join the Network
+- E-Mail Welcome to Railway-X - Join the Network
 - E-Mail Password Reset
 - E-Mail Invite New User to Portal
 - E-Mail Template implementations
@@ -25,7 +25,7 @@ On this page a summary is provided on which Email Templates are available and us
 
 Email templates implemented at Portal Backend side. Templates are prepared as a HTML file and emails sent via API upon corresponding business logic steps.
 <br>
-For development and test environments, a Catena-X email mailbox is available to send and receive emails.
+For development and test environments, a Railway-X email mailbox is available to send and receive emails.
 The mailbox is managed by the portal team. If you have questions or want to use the service, please contact the PO Julia Jeroch
 <br>
 <br>
@@ -75,7 +75,7 @@ Email Trigger: User clicked "Submit" button in the last step of the Registration
 <br>
 <br>
 
-### E-Mail Welcome to Catena-X - Join the Network
+### E-Mail Welcome to Railway-X - Join the Network
 
 Email Trigger: CX Admin has approved Company Registration request.
 <br>
@@ -95,7 +95,7 @@ Email Trigger: Shared IdP User is selecting "Password reset" on the login screen
 
 ### E-Mail Invite New User to Portal
 
-Email Trigger: Admin User is inviting inside the Portal User Management a new user into Catena-X
+Email Trigger: Admin User is inviting inside the Portal User Management a new user into Railway-X
 <br>
 ...
 <br>
